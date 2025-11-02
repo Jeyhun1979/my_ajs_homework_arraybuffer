@@ -1,1 +1,2 @@
 # my_ajs_homework_arraybuffer
+[![CI Pipeline](https://github.com/Jeyhun1979/my_ajs_homework_arraybuffer/actions/workflows/main.yml/badge.svg)](https://github.com/Jeyhun1979/my_ajs_homework_arraybuffer/actions/workflows/main.yml)
